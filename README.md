@@ -1,4 +1,4 @@
-# $whoami?
+# whoami?
 Hi, I'm Dominique! 👋 a cyber/information security specialist and researcher, hacker and enthusiast with over seven years of experience. Passionate about red teaming, assessing security risks, post-exploitation research, and ethically "doing criminal activities on purpose".
 
 Currently providing offensive security assessments/penetration testing services at Cegeka.
